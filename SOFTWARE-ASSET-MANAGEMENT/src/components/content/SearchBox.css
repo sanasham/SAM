@@ -1,0 +1,10 @@
+/* SearchBox.css */
+.search-box {
+  width: 300px; /* Set the desired width for the search box */
+  margin: 20px auto; /* Adjust the margin as needed */
+}
+
+/* Custom styles for rounded corners */
+.rounded-pill {
+  border-radius: 50px; /* Increase the value to adjust the curvature */
+}
